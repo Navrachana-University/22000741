@@ -1,0 +1,7 @@
+wassup
+drop i = 0;
+grind i < 5:
+    spill i;
+    drop i = i + 1;
+dead
+rip
